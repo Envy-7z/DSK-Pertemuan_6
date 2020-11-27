@@ -1,4 +1,4 @@
-.MODE SMALL
+.MODEL SMALL
 .CODE
 ORG 100h
 Proses:
